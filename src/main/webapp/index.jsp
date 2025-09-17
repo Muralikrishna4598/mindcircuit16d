@@ -64,7 +64,7 @@
 </head>
 <body>
   <div class="card">
-    <h1>G Muralikrishna Yadav</h1>
+    <h1>Muralikrishna Yadav</h1>
     <p class="subtitle">AWS DevOps Engineer</p>
     <p>
       <a href="https://github.com/muralikrishna-yadav-golla" target="_blank">GitHub</a> |
