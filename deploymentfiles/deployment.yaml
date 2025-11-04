@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: devopshubg333/batch16d:5
+          image: muralikrishna4598/docker-practice:html-site-v1
           ports:
             - containerPort: 8080
